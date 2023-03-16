@@ -1,0 +1,7 @@
+Cara patching:
+1. Buka file di jadx
+2. Compare sama smalinya di vscode
+3. Cari line yang bisa dipatch, ide patch
+
+insecure shop: buang login logic keluar (line45)
+kgb messenger: ganti logic 3 kedalem logic 1 sama 2
